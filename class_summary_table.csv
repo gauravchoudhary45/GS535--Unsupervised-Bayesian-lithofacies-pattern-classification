@@ -1,0 +1,6 @@
+Class,n,share %,Mean GR,Mean RHOB,Mean NPHI,Mean DTCO,Mean log10(LLD),mean P(class),n beds,median bed (m),max bed (m),Response (tentative)
+0,612,35.5,42.211,2.556,0.066,60.484,1.471,0.956,32,1.6,10.668,"GR mid, RHOB mid, NPHI mid, res mid"
+1,405,23.5,31.899,2.609,0.035,59.004,1.617,0.96,24,1.829,7.925,"GR low, RHOB mid, NPHI mid, res mid"
+2,453,26.3,44.603,2.659,0.008,55.375,2.111,0.982,20,1.829,17.983,"GR mid, RHOB high, NPHI low, res high"
+3,225,13.1,33.86,2.456,0.153,71.004,1.062,0.969,12,2.057,8.992,"GR low, RHOB low, NPHI high, res low"
+4,28,1.6,70.984,2.677,0.208,73.675,0.615,0.987,1,4.267,4.267,"GR high, RHOB high, NPHI high, res low"
